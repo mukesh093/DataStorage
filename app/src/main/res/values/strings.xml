@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Saving Data</string>
+    <string name="preferences">Shared Preferences</string>
+    <string name="internal">Internal Storage</string>
+    <string name="external">External Storage</string>
+    <string name="data">Data :</string>
+    <string name="store">Store Information</string>
+    <string name="show">Show Information</string>
+    <string name="fileName">File Name :</string>
+    <string name="save">Save</string>
+    <string name="read">Read</string>
+</resources>
